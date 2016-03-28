@@ -1,3 +1,4 @@
+//ADDING AN EXTRA COMMENT HERE TO TEST HOW BRANCHING WORKS WITH GITHUB
 /**File Name: Game.java
  * Date: March 26, 2016
  * Author: Joshua M. Johnson
